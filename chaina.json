@@ -1,0 +1,945 @@
+{
+    "musics": [
+        {
+            "rating": {
+                "max": 10,
+                "average": "8.0",
+                "numRaters": 62,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "KingStar"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img5.doubanio.com/spic/s3615316.jpg",
+            "tags": [
+                {
+                    "count": 28,
+                    "name": "中国风"
+                },
+                {
+                    "count": 11,
+                    "name": "内地"
+                },
+                {
+                    "count": 4,
+                    "name": "大陆"
+                },
+                {
+                    "count": 2,
+                    "name": "独立"
+                },
+                {
+                    "count": 2,
+                    "name": "大组合"
+                },
+                {
+                    "count": 2,
+                    "name": "男歌手"
+                },
+                {
+                    "count": 2,
+                    "name": "folk"
+                },
+                {
+                    "count": 2,
+                    "name": "组合"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/3558409/",
+            "attrs": {
+                "publisher": [
+                    "龙天腾文化"
+                ],
+                "tracks": [
+                    "01亭房道\n02布依梳妆\n03若相惜\n04白蛇传\n05落叶音符\n06刘三姐\n07诉君郎\n08西湖泪\n09古玩风\n10刹那芳华"
+                ],
+                "singer": [
+                    "KingStar"
+                ],
+                "pubdate": [
+                    "2009.02.21"
+                ],
+                "title": [
+                    "KingStar中国风"
+                ]
+            },
+            "title": "KingStar中国风",
+            "alt": "https://music.douban.com/subject/3558409/",
+            "id": "3558409"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 3,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "马蕊"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com/spic/s3631764.jpg",
+            "tags": [
+                {
+                    "count": 2,
+                    "name": "中国风"
+                },
+                {
+                    "count": 1,
+                    "name": "FeMale-Vocal"
+                },
+                {
+                    "count": 1,
+                    "name": "HI-FI"
+                },
+                {
+                    "count": 1,
+                    "name": "马蕊"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/2222258/",
+            "attrs": {
+                "media": [
+                    "CD"
+                ],
+                "singer": [
+                    "马蕊"
+                ],
+                "discs": [
+                    "1"
+                ],
+                "title": [
+                    "马蕊:中国风"
+                ]
+            },
+            "title": "马蕊:中国风",
+            "alt": "https://music.douban.com/subject/2222258/",
+            "id": "2222258"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 0,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "汪峰"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img5.doubanio.com/f/music/b9adac87c83fa697c241b7cb4107398ff1adfb53/pics/music/default_cover/spic/music-default.gif",
+            "tags": [
+                {
+                    "count": 2,
+                    "name": "中国风"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/3812924/",
+            "attrs": {
+                "media": [
+                    "CD"
+                ],
+                "singer": [
+                    "汪峰"
+                ],
+                "discs": [
+                    "3"
+                ],
+                "pubdate": [
+                    "2009年"
+                ],
+                "title": [
+                    "摇滚中国风"
+                ]
+            },
+            "title": "摇滚中国风",
+            "alt": "https://music.douban.com/subject/3812924/",
+            "id": "3812924"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 6,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "金池"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com/spic/s24544675.jpg",
+            "tags": [
+                {
+                    "count": 3,
+                    "name": "金池"
+                },
+                {
+                    "count": 1,
+                    "name": "女声"
+                },
+                {
+                    "count": 1,
+                    "name": "好听"
+                },
+                {
+                    "count": 1,
+                    "name": "民歌"
+                },
+                {
+                    "count": 1,
+                    "name": "老歌"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/20488338/",
+            "attrs": {
+                "publisher": [
+                    "佰度唱片"
+                ],
+                "singer": [
+                    "金池"
+                ],
+                "discs": [
+                    "1"
+                ],
+                "pubdate": [
+                    "2004-01-01"
+                ],
+                "title": [
+                    "中国风"
+                ],
+                "media": [
+                    "数字(Digital)"
+                ],
+                "tracks": [
+                    "01 花儿为什么这样红\n02 敖包相会\n03 冰山上的雪莲\n04 山歌好比春江水\n05 知音\n06 九九艳阳天\n07 祝酒歌\n08 驼铃\n09 送我一支玫瑰花\n10 草原之夜\n11 新疆好\n12 信天游\n13 2002年的第一场雪"
+                ],
+                "version": [
+                    "专辑"
+                ]
+            },
+            "title": "中国风",
+            "alt": "https://music.douban.com/subject/20488338/",
+            "id": "20488338"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 3,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "VA"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com/spic/s4549243.jpg",
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "R&B"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/5378735/",
+            "attrs": {
+                "publisher": [
+                    "Unknown"
+                ],
+                "singer": [
+                    "VA"
+                ],
+                "version": [
+                    "选集"
+                ],
+                "pubdate": [
+                    "2010-10-07"
+                ],
+                "title": [
+                    "黑马中国风"
+                ],
+                "media": [
+                    "数字(Digital)"
+                ],
+                "tracks": [
+                    "01. 2 Piece Juicy\n02. .Everytime\n03. Glaub An Dich\n04. Good Money\n05. If you feel my love\n06. Jay Sean - City Girl\n07. What Can I Say\n08. KNA Connected - China\n09. No Games\n10. RL (of Next) - Rider\n11. Thalia-Another Girl\n12 .This Night\n13. Miss Shanghai\n14. So Predictable\n15. Stevie Hoang - Luv U\n16. Within You'll Remain\n17. Smashed The Homie\nCraig David - Personal"
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "黑马中国风",
+            "alt": "https://music.douban.com/subject/5378735/",
+            "id": "5378735"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 0,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "未知艺术家"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img5.doubanio.com/f/music/b9adac87c83fa697c241b7cb4107398ff1adfb53/pics/music/default_cover/spic/music-default.gif",
+            "tags": [],
+            "mobile_link": "https://m.douban.com/music/subject/2163550/",
+            "attrs": {
+                "media": [
+                    "CD"
+                ],
+                "singer": [
+                    "未知艺术家"
+                ],
+                "discs": [
+                    "1"
+                ],
+                "title": [
+                    "中国风萨克斯 国内首张萨克斯管重奏"
+                ]
+            },
+            "title": "中国风萨克斯 国内首张萨克斯管重奏",
+            "alt": "https://music.douban.com/subject/2163550/",
+            "id": "2163550"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 1,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "未知艺术家"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com/spic/s6549841.jpg",
+            "tags": [],
+            "mobile_link": "https://m.douban.com/music/subject/2790724/",
+            "attrs": {
+                "publisher": [
+                    "中国青少年音像出版社/云南民族文化音像出版社"
+                ],
+                "singer": [
+                    "未知艺术家"
+                ],
+                "title": [
+                    "民乐中国风(6CD)"
+                ]
+            },
+            "title": "民乐中国风(6CD)",
+            "alt": "https://music.douban.com/subject/2790724/",
+            "id": "2790724"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 2,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "马蕊"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com/spic/s6541605.jpg",
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "马蕊"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/6543186/",
+            "attrs": {
+                "publisher": [
+                    "齐鲁电子音像出版社"
+                ],
+                "singer": [
+                    "马蕊"
+                ],
+                "title": [
+                    "马蕊:中国风"
+                ]
+            },
+            "title": "马蕊:中国风",
+            "alt": "https://music.douban.com/subject/6543186/",
+            "id": "6543186"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 0,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "未知艺术家"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com/spic/s6561865.jpg",
+            "tags": [],
+            "mobile_link": "https://m.douban.com/music/subject/6545223/",
+            "attrs": {
+                "publisher": [
+                    "上海录像公司"
+                ],
+                "singer": [
+                    "未知艺术家"
+                ],
+                "title": [
+                    "中国民歌音乐:中国风"
+                ]
+            },
+            "title": "中国民歌音乐:中国风",
+            "alt": "https://music.douban.com/subject/6545223/",
+            "id": "6545223"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 8,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "Jenny Lin"
+                }
+            ],
+            "alt_title": "林佳静《中国风》（西方作曲家受到中国启发而创作的钢琴曲专辑）",
+            "image": "https://img3.doubanio.com/spic/s4571711.jpg",
+            "tags": [
+                {
+                    "count": 4,
+                    "name": "林佳静"
+                },
+                {
+                    "count": 4,
+                    "name": "Tcherepnin"
+                },
+                {
+                    "count": 3,
+                    "name": "Adams"
+                },
+                {
+                    "count": 3,
+                    "name": "Arensky"
+                },
+                {
+                    "count": 3,
+                    "name": "Busoni"
+                },
+                {
+                    "count": 3,
+                    "name": "Scott"
+                },
+                {
+                    "count": 3,
+                    "name": "Waeber-Diaz"
+                },
+                {
+                    "count": 2,
+                    "name": "Ornstein"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/2221638/",
+            "attrs": {
+                "publisher": [
+                    "BIS Records"
+                ],
+                "singer": [
+                    "Jenny Lin"
+                ],
+                "version": [
+                    "专辑"
+                ],
+                "pubdate": [
+                    "2000-04-01"
+                ],
+                "title": [
+                    "Chinoiserie"
+                ],
+                "media": [
+                    "CD"
+                ],
+                "tracks": [
+                    "Gioacchino Rossini\n1.\tPetite Polka chinoise (No.3 from Album de chaumière)\t5'05\nAbram Chasins\n2.\tRush Hour in Hong Kong (No.3 of Three Chinese Pieces)\t1'36\nPercy Grainger\n3.\tBeautiful Fresh Flower\t1'38\nAnton Arensky\n4.\tÉtude sur un thème chinois, Op.25 No.3\t3'59\nAlexander Tcherepnin\nFive (Chinese) Concert Études, Op.52\n5.\tI. Shadow Play\t2'48\n6.\tII. The lute\t4'07\n7.\tIII. Homage to China\t2'15\n8.\tIV. Punch and Judy\t2'00\n9.\tV. Chant\t6'38\nCyril Scott\n10.\tLotus Land, Op.47 No.1\t4'51\nFerruccio Busoni\n11.\tTurandots Frauengemach (Intermezzo), No.4 from Elegies\t3'57\nMorton Gould\nPieces of China\n12.\tI. The Great Wall\t4'27\n13.\tII. Fable\t2'38\n14.\tIII. China Blue\t1'34\n15.\tIV. Puppets\t1'25\n16.\tV. Slow Dance-Lotus\t2'38\n17.\tVI. China Chips\t2'57\nJacqueline Waeber-Diaz\n18.\tImprovisation on a Chinese Folk Song\t3'33\nJohn Adams\n19.\tChina Gates\t4'47\nLeo Ornstein\n20.\tÀ la Chinoise, Op.39\t5'10\nBohuslav Martinů\n21.\tThe Fifth Day of the Fifth Moon\t3'21\nAlbert W. Ketèlbey\n22.\tIn a Chinese Temple Garden. Oriental Phantasy\t6'05"
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "Chinoiserie",
+            "alt": "https://music.douban.com/subject/2221638/",
+            "id": "2221638"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 6,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "王洛宾"
+                },
+                {
+                    "name": "郑立明"
+                },
+                {
+                    "name": "叶国辉"
+                },
+                {
+                    "name": "孙云"
+                },
+                {
+                    "name": "赵光"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com/spic/s3032174.jpg",
+            "tags": [
+                {
+                    "count": 3,
+                    "name": "民乐"
+                },
+                {
+                    "count": 1,
+                    "name": "中国民乐"
+                },
+                {
+                    "count": 1,
+                    "name": "大陆歌手"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/1405660/",
+            "attrs": {
+                "publisher": [
+                    "上海音像出版社"
+                ],
+                "singer": [
+                    "王洛宾",
+                    "郑立明",
+                    "叶国辉",
+                    "孙云",
+                    "赵光"
+                ],
+                "pubdate": [
+                    "1996-1-1"
+                ],
+                "title": [
+                    "中国风情轻音美乐集:浪漫中国VOL.3-4"
+                ],
+                "media": [
+                    "CD"
+                ],
+                "tracks": [
+                    "VOL 3：\n01 在那遥远的地方\n02 采茶舞曲\n03 孔雀舞\n04 牧羊姑娘\n05 凤阳花鼓\n06 思想起\n07 乌苏里船歌\n08 紫竹调\n09 瑶族舞曲\n10 四季歌\nVOL 4：\n01 玛依拉\n02 江南好\n03 苗岭的早晨\n04 美丽的姑娘\n05 马车夫之歌\n06 半个月亮爬上来\n07 绣荷包\n08 拔根芦柴花\n09 彩云追月\n10 数蛤蟆"
+                ],
+                "discs": [
+                    "2"
+                ]
+            },
+            "title": "中国风情轻音美乐集:浪漫中国VOL.3-4",
+            "alt": "https://music.douban.com/subject/1405660/",
+            "id": "1405660"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 7,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "赵光"
+                },
+                {
+                    "name": "郑立明"
+                },
+                {
+                    "name": "孙云"
+                },
+                {
+                    "name": "董为杰"
+                },
+                {
+                    "name": "叶国辉"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img1.doubanio.com/spic/s3032188.jpg",
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "中乐"
+                },
+                {
+                    "count": 1,
+                    "name": "古典"
+                },
+                {
+                    "count": 1,
+                    "name": "民乐"
+                },
+                {
+                    "count": 1,
+                    "name": "民族轻音乐"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/1405659/",
+            "attrs": {
+                "publisher": [
+                    "上海音像出版社"
+                ],
+                "singer": [
+                    "赵光",
+                    "郑立明",
+                    "孙云",
+                    "董为杰",
+                    "叶国辉"
+                ],
+                "discs": [
+                    "2"
+                ],
+                "pubdate": [
+                    "1996-1-1"
+                ],
+                "title": [
+                    "中国风情轻音美乐集:浪漫中国VOL.1-2"
+                ],
+                "media": [
+                    "CD"
+                ],
+                "tracks": [
+                    "VOL 1：\n01 二泉映月\n02 远方的客人请您留下来\n03 康定情歌\n04 茉莉花\n05 五哥放羊\n06 沂蒙山小调\n07 猜调\n08 阿拉木汗\n09 采茶择蝶\n10 森吉德玛\nVOL 2：\n01 南飞的大雁\n02 牧歌\n03 刘三姐\n04 摇篮曲\n05 情深谊长\n06 良宵\n07 小河淌水\n08 采莲\n09 采花\n10 蓝花花"
+                ],
+                "version": [
+                    "专辑"
+                ]
+            },
+            "title": "中国风情轻音美乐集:浪漫中国VOL.1-2",
+            "alt": "https://music.douban.com/subject/1405659/",
+            "id": "1405659"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 0,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "杜聪"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com/spic/s3647233.jpg",
+            "tags": [],
+            "mobile_link": "https://m.douban.com/music/subject/2170522/",
+            "attrs": {
+                "media": [
+                    "CD"
+                ],
+                "tracks": [
+                    "1.爱情骗子我问你\n\n2.爱拼子才会赢\n\n3.浪子的心情\n\n4.男性的本领\n\n5.车站\n\n6.免失志\n\n7.初恋\n\n8.干一杯\n\n9.痴情花\n\n10.爱情一阵风\n\n11.朋友情\n\n12.浪迹天涯\n\n13.爱情恰恰\n\n14.成功出头时\n\n15.爱一竹值多少\n\n16.多少柔情多少泪"
+                ],
+                "discs": [
+                    "1"
+                ],
+                "singer": [
+                    "杜聪"
+                ],
+                "title": [
+                    "中国风情音乐：闽南音乐 中国笛子"
+                ]
+            },
+            "title": "中国风情音乐：闽南音乐 中国笛子",
+            "alt": "https://music.douban.com/subject/2170522/",
+            "id": "2170522"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 0,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "杜聪"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com/spic/s1737891.jpg",
+            "tags": [],
+            "mobile_link": "https://m.douban.com/music/subject/1847432/",
+            "attrs": {
+                "publisher": [
+                    "江西音像出版社"
+                ],
+                "singer": [
+                    "杜聪"
+                ],
+                "title": [
+                    "中国风情音乐：旧情怀 中国笛子"
+                ],
+                "media": [
+                    "CD"
+                ],
+                "tracks": [
+                    "1、逝去的爱\n2、另一种乡愁\n3、天涯歌女\n4、请跟我来\n5、爱的礼物\n6、雨中即景\n7、兰花草\n8、春风吻上我的脸\n9、爱你一万年\n10、敲敲门\n11、三月里的小雨\n12、绿岛小夜曲\n13、送你一朵毋忘我\n14、我怎么哭了\n15、外婆的澎湖湾\n16、在雨中"
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "中国风情音乐：旧情怀 中国笛子",
+            "alt": "https://music.douban.com/subject/1847432/",
+            "id": "1847432"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 0,
+                "min": 0
+            },
+            "alt_title": "",
+            "image": "https://img5.doubanio.com/f/music/b9adac87c83fa697c241b7cb4107398ff1adfb53/pics/music/default_cover/spic/music-default.gif",
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "很不错"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/1847420/",
+            "attrs": {
+                "media": [
+                    "CD"
+                ],
+                "publisher": [
+                    "中国唱片总公司"
+                ],
+                "tracks": [
+                    "1、瑶族舞曲\n2、阿细跳月\n3、泼水节\n4、火把节恋歌\n5、姑苏行\n6、彝族舞曲\n7、赶会\n8、牧歌\n9、天山即景"
+                ],
+                "discs": [
+                    "1"
+                ],
+                "title": [
+                    "中国民族器乐音画系列四:中国风情"
+                ]
+            },
+            "title": "中国民族器乐音画系列四:中国风情",
+            "alt": "https://music.douban.com/subject/1847420/",
+            "id": "1847420"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 0,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "未知艺术家"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img1.doubanio.com/spic/s1734078.jpg",
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "d"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/1846244/",
+            "attrs": {
+                "publisher": [
+                    "九洲音像出版公司"
+                ],
+                "singer": [
+                    "未知艺术家"
+                ],
+                "title": [
+                    "中国风情音乐:浪漫双电子琴"
+                ],
+                "media": [
+                    "CD"
+                ],
+                "tracks": [
+                    "DISC ONE\n01 中华民谣\n02 好汉歌\n03 小城故事\n04 长城长\n05 祈祷\n06 爱江山更爱美人\n07 相约1998\n08 南屏晚钟\n09 走进新时代\n10 祝你平安\n11 常回家看看\n12 茉莉花\n13 十五的月亮\n14 快乐老家\n15 山路十八弯\n16 青藏高原\nDISC TWO\n01 来生缘\n02 月亮惹的祸\n03 爱你在心口难开\n04 梅花本弄\n05 一剪梅\n06 爱情像流水\n07 心雨\n08 九百九十九朵玫瑰\n09 流浪歌\n10 飘雪\n11 潮湿的心\n12 让我默默的离开\n13 你到底爱不爱我\n14 浪人情歌\n15 花好月圆\n16 雨蝶"
+                ],
+                "discs": [
+                    "2"
+                ]
+            },
+            "title": "中国风情音乐:浪漫双电子琴",
+            "alt": "https://music.douban.com/subject/1846244/",
+            "id": "1846244"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 1,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "杜聪"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com/spic/s6544624.jpg",
+            "tags": [],
+            "mobile_link": "https://m.douban.com/music/subject/6545335/",
+            "attrs": {
+                "publisher": [
+                    "江西音像出版社"
+                ],
+                "singer": [
+                    "杜聪"
+                ],
+                "title": [
+                    "中国风情音乐:闽南音乐 中国笛子"
+                ]
+            },
+            "title": "中国风情音乐:闽南音乐 中国笛子",
+            "alt": "https://music.douban.com/subject/6545335/",
+            "id": "6545335"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 1,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "未知"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img5.doubanio.com/f/music/b9adac87c83fa697c241b7cb4107398ff1adfb53/pics/music/default_cover/spic/music-default.gif",
+            "tags": [],
+            "mobile_link": "https://m.douban.com/music/subject/25925345/",
+            "attrs": {
+                "publisher": [
+                    "广州太平洋影音公司"
+                ],
+                "singer": [
+                    "未知"
+                ],
+                "version": [
+                    "专辑"
+                ],
+                "pubdate": [
+                    "1988-07-27"
+                ],
+                "title": [
+                    "中国风格DISCO"
+                ],
+                "media": [
+                    "磁带"
+                ],
+                "tracks": [
+                    "01 就这样挥一挥手\n02 快跟我走\n03 追求\n04 等待\n05 桥头\n06 你在我身边\n07 有个女孩\n08 夜晚"
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "中国风格DISCO",
+            "alt": "https://music.douban.com/subject/25925345/",
+            "id": "25925345"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 0,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "杜聪"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img1.doubanio.com/spic/s6544598.jpg",
+            "tags": [],
+            "mobile_link": "https://m.douban.com/music/subject/6545318/",
+            "attrs": {
+                "publisher": [
+                    "江西音像出版社"
+                ],
+                "singer": [
+                    "杜聪"
+                ],
+                "title": [
+                    "中国风情音乐:旧情怀 中国笛子"
+                ]
+            },
+            "title": "中国风情音乐:旧情怀 中国笛子",
+            "alt": "https://music.douban.com/subject/6545318/",
+            "id": "6545318"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 0,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "未知艺术家"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com/spic/s6560432.jpg",
+            "tags": [],
+            "mobile_link": "https://m.douban.com/music/subject/6554230/",
+            "attrs": {
+                "publisher": [
+                    "白天鹅音像出版社"
+                ],
+                "singer": [
+                    "未知艺术家"
+                ],
+                "title": [
+                    "中国风情民歌精选集"
+                ]
+            },
+            "title": "中国风情民歌精选集",
+            "alt": "https://music.douban.com/subject/6554230/",
+            "id": "6554230"
+        }
+    ]
+}

@@ -1,0 +1,1577 @@
+{
+    "musics": [
+        {
+            "rating": {
+                "max": 10,
+                "average": "8.9",
+                "numRaters": 11693,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "王菲"
+                },
+                {
+                    "name": "陈奕迅"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com/spic/s7059594.jpg",
+            "tags": [
+                {
+                    "count": 3173,
+                    "name": "王菲"
+                },
+                {
+                    "count": 3139,
+                    "name": "因为爱情"
+                },
+                {
+                    "count": 1912,
+                    "name": "陈奕讯"
+                },
+                {
+                    "count": 1262,
+                    "name": "陈奕迅"
+                },
+                {
+                    "count": 856,
+                    "name": "一切都是幸福的模样。"
+                },
+                {
+                    "count": 786,
+                    "name": "触动人心，唱的空灵又浑重"
+                },
+                {
+                    "count": 490,
+                    "name": "爱情"
+                },
+                {
+                    "count": 488,
+                    "name": "华语"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/6787307/",
+            "attrs": {
+                "publisher": [
+                    "寶麗金"
+                ],
+                "singer": [
+                    "王菲",
+                    "陈奕迅"
+                ],
+                "version": [
+                    "单曲"
+                ],
+                "pubdate": [
+                    "2011-01-13"
+                ],
+                "title": [
+                    "因為愛情"
+                ],
+                "media": [
+                    "数字(Digital)"
+                ],
+                "tracks": [
+                    "因為愛情"
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "因為愛情",
+            "alt": "https://music.douban.com/subject/6787307/",
+            "id": "6787307"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": "7.2",
+                "numRaters": 9163,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "藍又時"
+                },
+                {
+                    "name": "蓝又时"
+                }
+            ],
+            "alt_title": "伦敦的爱情",
+            "image": "https://img3.doubanio.com/spic/s4368463.jpg",
+            "tags": [
+                {
+                    "count": 1709,
+                    "name": "蓝又时"
+                },
+                {
+                    "count": 931,
+                    "name": "台湾"
+                },
+                {
+                    "count": 443,
+                    "name": "伦敦的爱情"
+                },
+                {
+                    "count": 363,
+                    "name": "2010"
+                },
+                {
+                    "count": 326,
+                    "name": "Pop"
+                },
+                {
+                    "count": 249,
+                    "name": "女声"
+                },
+                {
+                    "count": 199,
+                    "name": "华语"
+                },
+                {
+                    "count": 171,
+                    "name": "流行"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/4812264/",
+            "attrs": {
+                "publisher": [
+                    "亞神音樂"
+                ],
+                "singer": [
+                    "藍又時",
+                    "蓝又时"
+                ],
+                "version": [
+                    "专辑"
+                ],
+                "pubdate": [
+                    "2010-05-07"
+                ],
+                "title": [
+                    "倫敦的愛情"
+                ],
+                "media": [
+                    "CD"
+                ],
+                "tracks": [
+                    "1.  倫敦的愛情\n2.  聽我的勸\n3.  一體兩面\n4.  誰比誰\n5.  聽聽\n6.  最懂我\n7.  序\n8.  魚的淚\n9.  圓規\n10.  你"
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "倫敦的愛情",
+            "alt": "https://music.douban.com/subject/4812264/",
+            "id": "4812264"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": "9.2",
+                "numRaters": 5801,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "慕容晓晓"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img5.doubanio.com/spic/s4485156.jpg",
+            "tags": [
+                {
+                    "count": 887,
+                    "name": "前卫山寨旋律死亡有色软金属"
+                },
+                {
+                    "count": 661,
+                    "name": "全面超越凤凰传奇"
+                },
+                {
+                    "count": 593,
+                    "name": "黑死迷幻高潮女嗓"
+                },
+                {
+                    "count": 592,
+                    "name": "农业机械噪音金属"
+                },
+                {
+                    "count": 538,
+                    "name": "家畜嘶鸣死亡金属"
+                },
+                {
+                    "count": 483,
+                    "name": "农业金属"
+                },
+                {
+                    "count": 470,
+                    "name": "殺很大狂暴收割金屬"
+                },
+                {
+                    "count": 426,
+                    "name": "绕梁三日"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/5290065/",
+            "attrs": {
+                "publisher": [
+                    "辽宁广播电视音像出版社"
+                ],
+                "singer": [
+                    "慕容晓晓"
+                ],
+                "pubdate": [
+                    "2010-09-17"
+                ],
+                "title": [
+                    "爱情买卖"
+                ],
+                "media": [
+                    "CD"
+                ],
+                "tracks": [
+                    "01.姑娘爱情郎\n02.七八九\n03.收不回的漂流瓶\n04.曾经的我走了\n05.爱情买卖\n06.黄梅戏\n07.你的圈套\n08.赚够了没\n09.除了我\n10.错上加错"
+                ],
+                "version": [
+                    "专辑"
+                ]
+            },
+            "title": "爱情买卖",
+            "alt": "https://music.douban.com/subject/5290065/",
+            "id": "5290065"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": "9.0",
+                "numRaters": 3944,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "林海"
+                }
+            ],
+            "alt_title": "Love Things",
+            "image": "https://img3.doubanio.com/spic/s4712375.jpg",
+            "tags": [
+                {
+                    "count": 1529,
+                    "name": "林海"
+                },
+                {
+                    "count": 726,
+                    "name": "钢琴"
+                },
+                {
+                    "count": 629,
+                    "name": "纯音乐"
+                },
+                {
+                    "count": 419,
+                    "name": "风潮"
+                },
+                {
+                    "count": 418,
+                    "name": "NewAge"
+                },
+                {
+                    "count": 231,
+                    "name": "爱情风华"
+                },
+                {
+                    "count": 178,
+                    "name": "台湾"
+                },
+                {
+                    "count": 155,
+                    "name": "piano"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/1426892/",
+            "attrs": {
+                "publisher": [
+                    "风潮唱片"
+                ],
+                "singer": [
+                    "林海"
+                ],
+                "version": [
+                    "专辑"
+                ],
+                "pubdate": [
+                    "2004"
+                ],
+                "title": [
+                    "爱情风华"
+                ],
+                "media": [
+                    "CD"
+                ],
+                "tracks": [
+                    "1. 记忆的容颜\n2. 几度枫红\n3. 初开\n4. 蔚蓝的回忆\n5. 再见往事，再见\n6. 守望\n7. 关于爱情\n8. 风之华\n9. 伤\n10. 静默\n11. 让爱"
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "爱情风华",
+            "alt": "https://music.douban.com/subject/1426892/",
+            "id": "1426892"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": "9.2",
+                "numRaters": 2925,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "林海"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com/spic/s4712150.jpg",
+            "tags": [
+                {
+                    "count": 991,
+                    "name": "林海"
+                },
+                {
+                    "count": 513,
+                    "name": "纯音乐"
+                },
+                {
+                    "count": 342,
+                    "name": "钢琴"
+                },
+                {
+                    "count": 251,
+                    "name": "NewAge"
+                },
+                {
+                    "count": 190,
+                    "name": "爱情风华"
+                },
+                {
+                    "count": 128,
+                    "name": "风潮"
+                },
+                {
+                    "count": 82,
+                    "name": "钢琴曲"
+                },
+                {
+                    "count": 82,
+                    "name": "台湾"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/2170698/",
+            "attrs": {
+                "publisher": [
+                    "中国科学文化音像出版社"
+                ],
+                "singer": [
+                    "林海"
+                ],
+                "version": [
+                    "专辑"
+                ],
+                "title": [
+                    "林海:爱情风华"
+                ],
+                "media": [
+                    "CD"
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "林海:爱情风华",
+            "alt": "https://music.douban.com/subject/2170698/",
+            "id": "2170698"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": "7.4",
+                "numRaters": 2100,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "林凡"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com/spic/s9066774.jpg",
+            "tags": [
+                {
+                    "count": 991,
+                    "name": "林凡"
+                },
+                {
+                    "count": 402,
+                    "name": "台湾"
+                },
+                {
+                    "count": 294,
+                    "name": "女声"
+                },
+                {
+                    "count": 253,
+                    "name": "2012"
+                },
+                {
+                    "count": 206,
+                    "name": "华语"
+                },
+                {
+                    "count": 126,
+                    "name": "Pop"
+                },
+                {
+                    "count": 126,
+                    "name": "滚石"
+                },
+                {
+                    "count": 114,
+                    "name": "流行"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/10598436/",
+            "attrs": {
+                "publisher": [
+                    "滚石唱片"
+                ],
+                "singer": [
+                    "林凡"
+                ],
+                "version": [
+                    "专辑"
+                ],
+                "pubdate": [
+                    "2012-04-27"
+                ],
+                "title": [
+                    "爱情_很突然"
+                ],
+                "media": [
+                    "CD"
+                ],
+                "tracks": [
+                    "1. 睡在一起的知己\n2. 痛癢\n3. 告別像低迴溫婉的小調\n4. 我的病\n5. 不痛不快\n6. 不一定\n7. 幸福很突然\n8. 缺口\n9. 你還在\n10. You Said You Would\n11. 不能更快樂嗎\n12. 告別缺口，知己… (睡在一起的知己／痛癢／不痛不快／缺口／告別像低迴溫婉的小調)"
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "爱情_很突然",
+            "alt": "https://music.douban.com/subject/10598436/",
+            "id": "10598436"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": "7.2",
+                "numRaters": 2519,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "魏如萱"
+                }
+            ],
+            "alt_title": "还是要相信爱情啊混蛋们",
+            "image": "https://img3.doubanio.com/spic/s27278632.jpg",
+            "tags": [
+                {
+                    "count": 694,
+                    "name": "魏如萱"
+                },
+                {
+                    "count": 438,
+                    "name": "台湾"
+                },
+                {
+                    "count": 233,
+                    "name": "2014"
+                },
+                {
+                    "count": 198,
+                    "name": "還是要相信愛情啊混蛋們"
+                },
+                {
+                    "count": 171,
+                    "name": "女声"
+                },
+                {
+                    "count": 153,
+                    "name": "Indie"
+                },
+                {
+                    "count": 124,
+                    "name": "华语"
+                },
+                {
+                    "count": 109,
+                    "name": "独立"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/25882945/",
+            "attrs": {
+                "publisher": [
+                    "添翼创越"
+                ],
+                "singer": [
+                    "魏如萱"
+                ],
+                "version": [
+                    "专辑"
+                ],
+                "pubdate": [
+                    "2014-05-09"
+                ],
+                "title": [
+                    "還是要相信愛情啊混蛋們"
+                ],
+                "media": [
+                    "CD"
+                ],
+                "tracks": [
+                    "1.在不確定的世界裡\n2.還是要相信愛情啊混蛋們\n3.巴黎的憂鬱\n4.愛不愛\n5.背景\n6.睡蓮\n7.開始和結束之間 In Between\n8.暗室之後\n9.捉迷藏\n10.黑貓的計謀\n11.好嗎好嗎"
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "還是要相信愛情啊混蛋們",
+            "alt": "https://music.douban.com/subject/25882945/",
+            "id": "25882945"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": "9.3",
+                "numRaters": 2687,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "五月天"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com/spic/s10793754.jpg",
+            "tags": [
+                {
+                    "count": 882,
+                    "name": "五月天"
+                },
+                {
+                    "count": 321,
+                    "name": "台湾"
+                },
+                {
+                    "count": 200,
+                    "name": "爱情万岁"
+                },
+                {
+                    "count": 114,
+                    "name": "五颗星是不够的！"
+                },
+                {
+                    "count": 110,
+                    "name": "2000"
+                },
+                {
+                    "count": 105,
+                    "name": "Rock"
+                },
+                {
+                    "count": 101,
+                    "name": "MAYDAY"
+                },
+                {
+                    "count": 93,
+                    "name": "摇滚"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/10515439/",
+            "attrs": {
+                "publisher": [
+                    "滚石唱片"
+                ],
+                "singer": [
+                    "五月天"
+                ],
+                "version": [
+                    "专辑"
+                ],
+                "pubdate": [
+                    "2000-07-07"
+                ],
+                "title": [
+                    "爱情万岁"
+                ],
+                "media": [
+                    "CD"
+                ],
+                "tracks": [
+                    "01.  为什么\n02.  终结孤单\n03.  明白\n04.  心中无别人\n05.  有你的将来\n06.  憨人\n07.  叫我第一名\n08.  雨眠\n09.  罗密欧与茱丽叶\n10.  温柔\n11.  爱情万岁\n12.  反而"
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "爱情万岁",
+            "alt": "https://music.douban.com/subject/10515439/",
+            "id": "10515439"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": "8.8",
+                "numRaters": 2096,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "熊天平"
+                }
+            ],
+            "alt_title": "爱情多恼河",
+            "image": "https://img3.doubanio.com/spic/s4716921.jpg",
+            "tags": [
+                {
+                    "count": 620,
+                    "name": "熊天平"
+                },
+                {
+                    "count": 287,
+                    "name": "台湾"
+                },
+                {
+                    "count": 145,
+                    "name": "Pop"
+                },
+                {
+                    "count": 132,
+                    "name": "爱情多恼河"
+                },
+                {
+                    "count": 91,
+                    "name": "流行"
+                },
+                {
+                    "count": 81,
+                    "name": "旧时光"
+                },
+                {
+                    "count": 72,
+                    "name": "华语"
+                },
+                {
+                    "count": 56,
+                    "name": "男声"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/1727433/",
+            "attrs": {
+                "publisher": [
+                    "上華"
+                ],
+                "singer": [
+                    "熊天平"
+                ],
+                "version": [
+                    "专辑"
+                ],
+                "pubdate": [
+                    "1997"
+                ],
+                "title": [
+                    "爱情多恼河"
+                ],
+                "media": [
+                    "CD"
+                ],
+                "tracks": [
+                    "1. 愚人码头\n2. 爱情多恼河\n3. 你的眼睛(vs许茹芸)\n4. 不让步\n5. Goodbye Windflower\n6. 太去在意\n7. 摆脱\n8. 玻璃娃娃\n9. 相思无解\n10. 周末下雨\n11. 忠贞\n12. 夜夜夜夜(DEMO)"
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "爱情多恼河",
+            "alt": "https://music.douban.com/subject/1727433/",
+            "id": "1727433"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": "9.4",
+                "numRaters": 1719,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "李宗盛"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img1.doubanio.com/spic/s4216367.jpg",
+            "tags": [
+                {
+                    "count": 648,
+                    "name": "李宗盛"
+                },
+                {
+                    "count": 272,
+                    "name": "台湾"
+                },
+                {
+                    "count": 182,
+                    "name": "经典"
+                },
+                {
+                    "count": 120,
+                    "name": "滚石"
+                },
+                {
+                    "count": 107,
+                    "name": "流行"
+                },
+                {
+                    "count": 88,
+                    "name": "华语"
+                },
+                {
+                    "count": 84,
+                    "name": "爱情论"
+                },
+                {
+                    "count": 57,
+                    "name": "pop"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/1413988/",
+            "attrs": {
+                "publisher": [
+                    "国际文化交流音像出版社"
+                ],
+                "singer": [
+                    "李宗盛"
+                ],
+                "version": [
+                    "专辑"
+                ],
+                "pubdate": [
+                    "2004"
+                ],
+                "title": [
+                    "爱情论"
+                ],
+                "media": [
+                    "CD"
+                ],
+                "tracks": [
+                    "01. 爱的代价\n02. 我是真的爱你\n03. 你像个孩子\n04. 爱情少尉\n05. 没有人知道\n06. 我有话要说\n07. 十七岁女生的温柔\n08. 和自己赛跑的人\n09. 如果你要离去\n10. 听见有人叫你宝贝\n11. 生命中的精灵\n12. 寂寞难耐\n13. 鬼迷心窍\n14. 凡人歌\n15. 希望\n16. 远行\n17. 风柜来的人\n18. 小镇医生的故事\n19. 油麻菜籽\n20. 飞\n21. 因为寂寞 - 张艾嘉\n22. 当爱已成往事 - 李宗盛/林忆莲\n23. 阴天 - 莫文蔚\n24. 最爱 - 潘越云\n25. 飘洋过海来看你 - 娃娃\n26. 问 - 陈淑桦\n27. 诱惑的街 - 林忆莲\n28. 一夜长大 - 梁静茹\n29. 伤心地铁 - 光良\n30. 两个女孩 - 莫文蔚\n31. 当爱在靠近 - 刘若英\n32. 我一个人住 - 苏慧伦\n33. 第三者 - 梁静茹\n34. 寂寞 - 万芳\n35. 领悟 - 辛晓琪"
+                ],
+                "discs": [
+                    "3"
+                ]
+            },
+            "title": "爱情论",
+            "alt": "https://music.douban.com/subject/1413988/",
+            "id": "1413988"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": "9.1",
+                "numRaters": 1722,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "小柯"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com/spic/s4581694.jpg",
+            "tags": [
+                {
+                    "count": 432,
+                    "name": "OST"
+                },
+                {
+                    "count": 303,
+                    "name": "将爱情进行到底"
+                },
+                {
+                    "count": 171,
+                    "name": "电视原声"
+                },
+                {
+                    "count": 120,
+                    "name": "青春"
+                },
+                {
+                    "count": 97,
+                    "name": "内地"
+                },
+                {
+                    "count": 73,
+                    "name": "爱情"
+                },
+                {
+                    "count": 60,
+                    "name": "中国"
+                },
+                {
+                    "count": 56,
+                    "name": "原声"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/1937986/",
+            "attrs": {
+                "singer": [
+                    "小柯"
+                ],
+                "version": [
+                    "专辑"
+                ],
+                "pubdate": [
+                    "2002"
+                ],
+                "title": [
+                    "将爱情进行到底"
+                ],
+                "media": [
+                    "CD"
+                ],
+                "tracks": [
+                    "1. 走来（音乐）\n2. 遥望历志篇\n3. 清纯（音乐）\n4. 等待（音乐）\n5. 爱过以后（对白）\n6. 等你爱我\n7. 迷之幻之（音乐）\n8. 初缠恋后（音乐）\n9. 乐言的（对白）＋谁\n11. 若彤的旁白（对白）\n12. 真情万种（音乐）\n13. 灿烂季节（等你爱我伴奏音乐）\n14. 遥望纯情篇\n15. 弦风（音乐）\n16. 不敢相信的爱情（谁伴奏音乐）\n17. 我还能做什么\n18. 朋友的恋人（音乐）\n19. 遥望 演奏篇"
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "将爱情进行到底",
+            "alt": "https://music.douban.com/subject/1937986/",
+            "id": "1937986"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": "6.8",
+                "numRaters": 1181,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "劉若英"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com/spic/s24520855.jpg",
+            "tags": [
+                {
+                    "count": 597,
+                    "name": "刘若英"
+                },
+                {
+                    "count": 205,
+                    "name": "台湾"
+                },
+                {
+                    "count": 193,
+                    "name": "奶茶"
+                },
+                {
+                    "count": 168,
+                    "name": "爱情限量版"
+                },
+                {
+                    "count": 123,
+                    "name": "2012"
+                },
+                {
+                    "count": 86,
+                    "name": "女声"
+                },
+                {
+                    "count": 85,
+                    "name": "华语"
+                },
+                {
+                    "count": 82,
+                    "name": "OST"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/20395913/",
+            "attrs": {
+                "publisher": [
+                    "相信音樂"
+                ],
+                "singer": [
+                    "劉若英"
+                ],
+                "version": [
+                    "EP"
+                ],
+                "pubdate": [
+                    "2012-12-18"
+                ],
+                "title": [
+                    "愛情限量版 (平裝版)"
+                ],
+                "media": [
+                    "CD+DVD"
+                ],
+                "tracks": [
+                    "01. 經過\n02. 表面的和平 (Rene Movie Version)\n03. 愛情限定 (Instrumental)\n04. 最後一滴眼淚 (Instrumental)\n05. 一個人旅行 (Instrumental)\n06. 沙特&西蒙波娃 (Instrumental)\n07. 轉身 (Instrumental)"
+                ],
+                "discs": [
+                    "2"
+                ]
+            },
+            "title": "愛情限量版 (平裝版)",
+            "alt": "https://music.douban.com/subject/20395913/",
+            "id": "20395913"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": "7.9",
+                "numRaters": 1444,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "twins(钟欣桐、蔡卓妍)"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img1.doubanio.com/spic/s24601418.jpg",
+            "tags": [
+                {
+                    "count": 434,
+                    "name": "twins"
+                },
+                {
+                    "count": 226,
+                    "name": "香港"
+                },
+                {
+                    "count": 137,
+                    "name": "粤语"
+                },
+                {
+                    "count": 79,
+                    "name": "pop"
+                },
+                {
+                    "count": 57,
+                    "name": "爱情当入樽"
+                },
+                {
+                    "count": 55,
+                    "name": "组合"
+                },
+                {
+                    "count": 47,
+                    "name": "Twins"
+                },
+                {
+                    "count": 42,
+                    "name": "流行"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/1873335/",
+            "attrs": {
+                "publisher": [
+                    "国际文化交流音像出版社出版"
+                ],
+                "singer": [
+                    "twins(钟欣桐、蔡卓妍)"
+                ],
+                "pubdate": [
+                    "2001年11月30日"
+                ],
+                "title": [
+                    "爱情当入樽"
+                ],
+                "media": [
+                    "CD"
+                ],
+                "tracks": [
+                    "01. 爱情当入樽\r\n02. 学生手册\r\n03. 恋爱大过天\r\n04. 飞线\r\n05. 和平日\r\n06. 有所不知 \"Marie s 主题曲\"\r\n07. 爱情当入樽 (Air Mix)\r\n08. 和平日 (WE Mix)\"Fun Fun Show 01\"主题曲\r\n09. 女校男生 (Back to School Mix)"
+                ],
+                "version": [
+                    "专辑"
+                ]
+            },
+            "title": "爱情当入樽",
+            "alt": "https://music.douban.com/subject/1873335/",
+            "id": "1873335"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": "7.4",
+                "numRaters": 1480,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "刘惜君"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img1.doubanio.com/spic/s3951858.jpg",
+            "tags": [
+                {
+                    "count": 397,
+                    "name": "刘惜君"
+                },
+                {
+                    "count": 162,
+                    "name": "内地"
+                },
+                {
+                    "count": 117,
+                    "name": "女声"
+                },
+                {
+                    "count": 77,
+                    "name": "华语"
+                },
+                {
+                    "count": 76,
+                    "name": "流行"
+                },
+                {
+                    "count": 72,
+                    "name": "pop"
+                },
+                {
+                    "count": 51,
+                    "name": "2009"
+                },
+                {
+                    "count": 44,
+                    "name": "爱情花园"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/3036588/",
+            "attrs": {
+                "publisher": [
+                    "傲旗音乐"
+                ],
+                "singer": [
+                    "刘惜君"
+                ],
+                "version": [
+                    "专辑"
+                ],
+                "pubdate": [
+                    "2010-01-21"
+                ],
+                "title": [
+                    "爱情花园"
+                ],
+                "media": [
+                    "CD"
+                ],
+                "tracks": [
+                    "CD\n01 少女宣言\n02 初恋\n03 爱情花园\n04 I am free\n05 我很快乐\n06 贝壳风铃\n07 绿树变黄\n08 月亮船\n09 梦的翅膀\n10 幸福的拥抱\n11 绿树变黄（钢琴版）\nDVD\n01 爱情花园MV\n02 贝壳风铃MV"
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "爱情花园",
+            "alt": "https://music.douban.com/subject/3036588/",
+            "id": "3036588"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": "3.6",
+                "numRaters": 1662,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "张杰"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img1.doubanio.com/spic/s24423599.jpg",
+            "tags": [
+                {
+                    "count": 356,
+                    "name": "张杰"
+                },
+                {
+                    "count": 179,
+                    "name": "那些年我们一起插过的猹！"
+                },
+                {
+                    "count": 139,
+                    "name": "那些和我们打过招呼的爱情"
+                },
+                {
+                    "count": 133,
+                    "name": "翻唱"
+                },
+                {
+                    "count": 122,
+                    "name": "内地"
+                },
+                {
+                    "count": 96,
+                    "name": "2012"
+                },
+                {
+                    "count": 89,
+                    "name": "家畜嘶鸣死亡金属"
+                },
+                {
+                    "count": 60,
+                    "name": "肛金"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/20390783/",
+            "attrs": {
+                "publisher": [
+                    "天娱音乐"
+                ],
+                "singer": [
+                    "张杰"
+                ],
+                "version": [
+                    "专辑"
+                ],
+                "pubdate": [
+                    "2012-11-29"
+                ],
+                "title": [
+                    "那些和我们打过招呼的爱情"
+                ],
+                "media": [
+                    "CD"
+                ],
+                "tracks": [
+                    "01. 原来你什么都不要\n02. 天空\n03. 领悟\n04. 突然想爱你\n05. 夜盲症\n06. 伤痕\n07. 街角的祝福\n08. 走路去纽约\n09. 就算全世界与我为敌\n10. 她不爱我"
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "那些和我们打过招呼的爱情",
+            "alt": "https://music.douban.com/subject/20390783/",
+            "id": "20390783"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": "7.5",
+                "numRaters": 1089,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "江美琪"
+                }
+            ],
+            "alt_title": "爱情的重量 冬季限定版EP",
+            "image": "https://img3.doubanio.com/spic/s4534061.jpg",
+            "tags": [
+                {
+                    "count": 346,
+                    "name": "江美琪"
+                },
+                {
+                    "count": 188,
+                    "name": "台湾"
+                },
+                {
+                    "count": 74,
+                    "name": "2010"
+                },
+                {
+                    "count": 63,
+                    "name": "Pop"
+                },
+                {
+                    "count": 60,
+                    "name": "单曲"
+                },
+                {
+                    "count": 51,
+                    "name": "女声"
+                },
+                {
+                    "count": 45,
+                    "name": "EP"
+                },
+                {
+                    "count": 26,
+                    "name": "小美"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/5356523/",
+            "attrs": {
+                "publisher": [
+                    "星娱音乐"
+                ],
+                "singer": [
+                    "江美琪"
+                ],
+                "version": [
+                    "EP"
+                ],
+                "pubdate": [
+                    "2010-11-10"
+                ],
+                "title": [
+                    "爱情的重量"
+                ],
+                "media": [
+                    "CD"
+                ],
+                "tracks": [
+                    "1 爱情的重量\n2 月光下\n3 你是爱我的"
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "爱情的重量",
+            "alt": "https://music.douban.com/subject/5356523/",
+            "id": "5356523"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": "6.4",
+                "numRaters": 1202,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "赵薇"
+                }
+            ],
+            "alt_title": "愛情大魔咒",
+            "image": "https://img3.doubanio.com/spic/s2817513.jpg",
+            "tags": [
+                {
+                    "count": 355,
+                    "name": "赵薇"
+                },
+                {
+                    "count": 182,
+                    "name": "内地"
+                },
+                {
+                    "count": 101,
+                    "name": "Pop"
+                },
+                {
+                    "count": 74,
+                    "name": "大陆"
+                },
+                {
+                    "count": 71,
+                    "name": "爱情大魔咒"
+                },
+                {
+                    "count": 59,
+                    "name": "流行"
+                },
+                {
+                    "count": 58,
+                    "name": "1999"
+                },
+                {
+                    "count": 57,
+                    "name": "华语"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/2154563/",
+            "attrs": {
+                "publisher": [
+                    "上海声像出版社"
+                ],
+                "singer": [
+                    "赵薇"
+                ],
+                "version": [
+                    "专辑"
+                ],
+                "pubdate": [
+                    "1999-09-01"
+                ],
+                "title": [
+                    "爱情大魔咒"
+                ],
+                "media": [
+                    "CD"
+                ],
+                "tracks": [
+                    "01 爱情大魔咒\n02 是否\n03 我不会偷哭\n04 耳洞\n05 暗恋猫咪\n06 车厢包厢\n07 HELLO\n08 E-MAIL LOVE\n09 玩耍\n10 雨想哭就哭吧\n11 暗恋猫咪（神奇演奏曲）\n12 雨想哭就哭吧（神奇演奏曲）\n13 是否（kala)\n14 玩耍（kala）\n15 我不会偷哭（kala）\n16 超值赠送：自从有了你\nVCD曲目\n01 爱情大魔咒\n02 耳洞\n03 自从有了你\n04 不能和你分手\n05 你是风儿我是沙"
+                ],
+                "discs": [
+                    "2"
+                ]
+            },
+            "title": "爱情大魔咒",
+            "alt": "https://music.douban.com/subject/2154563/",
+            "id": "2154563"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": "7.8",
+                "numRaters": 1131,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "张智成"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img1.doubanio.com/spic/s3153519.jpg",
+            "tags": [
+                {
+                    "count": 310,
+                    "name": "张智成"
+                },
+                {
+                    "count": 96,
+                    "name": "马来西亚"
+                },
+                {
+                    "count": 89,
+                    "name": "爱情树"
+                },
+                {
+                    "count": 75,
+                    "name": "R&B"
+                },
+                {
+                    "count": 54,
+                    "name": "台湾"
+                },
+                {
+                    "count": 37,
+                    "name": "POP"
+                },
+                {
+                    "count": 30,
+                    "name": "华语"
+                },
+                {
+                    "count": 26,
+                    "name": "2006"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/1776115/",
+            "attrs": {
+                "publisher": [
+                    "华研国际"
+                ],
+                "singer": [
+                    "张智成"
+                ],
+                "version": [
+                    "专辑"
+                ],
+                "pubdate": [
+                    "2006"
+                ],
+                "title": [
+                    "爱情树"
+                ],
+                "media": [
+                    "CD"
+                ],
+                "tracks": [
+                    "1. 爱情树\n2. 快乐\n3. 痊愈\n4. 让时间开口\n5. Just Once\n6. 担心\n7. 贴身情人\n8. Because I love you\n9. 乐天派\n10. 预言\n11. 放我的真心在你的手心"
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "爱情树",
+            "alt": "https://music.douban.com/subject/1776115/",
+            "id": "1776115"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": "8.6",
+                "numRaters": 983,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "Original Soundtrack"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com/spic/s1416313.jpg",
+            "tags": [
+                {
+                    "count": 212,
+                    "name": "OST"
+                },
+                {
+                    "count": 102,
+                    "name": "范玮琪"
+                },
+                {
+                    "count": 95,
+                    "name": "台湾"
+                },
+                {
+                    "count": 79,
+                    "name": "爱情白皮书"
+                },
+                {
+                    "count": 52,
+                    "name": "爱情白皮书TOMORROW"
+                },
+                {
+                    "count": 43,
+                    "name": "电视原声"
+                },
+                {
+                    "count": 38,
+                    "name": "电视原声带"
+                },
+                {
+                    "count": 37,
+                    "name": "杨丞琳"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/1407626/",
+            "attrs": {
+                "publisher": [
+                    "福茂唱片"
+                ],
+                "singer": [
+                    "Original Soundtrack"
+                ],
+                "version": [
+                    "SoundTrack"
+                ],
+                "pubdate": [
+                    "2002"
+                ],
+                "title": [
+                    "爱情白皮书"
+                ],
+                "media": [
+                    "CD"
+                ],
+                "tracks": [
+                    "1. 爱情万岁(我们的序曲)\n2. 明日(通往明天的旅行)\n3. 启程\n4. 启程(演奏版-成美与挂居的邂逅)\n5. 大学生(成美的第一个步伐)\n6. 明日(不要哭,Tomorrow Is Another Day)\n7. 爱情万岁(复杂的N角关系)\n8. 明日(挂居的失眠夜)\n9. 悲伤(再见了,松岗)\n10. 悲伤(星华的回忆与想念)\n11. 启程(演奏版-擦干眼泪的约定)\n12. 明日(瞿守的默默守候)\n13. 说再见\n14. 有你真好\n16. 爱情万岁(加长版)\n17. 明日(原味版)\n18. 启程"
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "爱情白皮书",
+            "alt": "https://music.douban.com/subject/1407626/",
+            "id": "1407626"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": "7.9",
+                "numRaters": 1045,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "许茹芸"
+                }
+            ],
+            "alt_title": "雲且留住",
+            "image": "https://img3.doubanio.com/spic/s4714850.jpg",
+            "tags": [
+                {
+                    "count": 340,
+                    "name": "许茹芸"
+                },
+                {
+                    "count": 153,
+                    "name": "台湾"
+                },
+                {
+                    "count": 73,
+                    "name": "Pop"
+                },
+                {
+                    "count": 56,
+                    "name": "翻唱"
+                },
+                {
+                    "count": 41,
+                    "name": "流行"
+                },
+                {
+                    "count": 35,
+                    "name": "2003"
+                },
+                {
+                    "count": 29,
+                    "name": "女声"
+                },
+                {
+                    "count": 29,
+                    "name": "女歌手"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/1405270/",
+            "attrs": {
+                "publisher": [
+                    "EMI"
+                ],
+                "singer": [
+                    "许茹芸"
+                ],
+                "version": [
+                    "专辑"
+                ],
+                "pubdate": [
+                    "2003"
+                ],
+                "title": [
+                    "许茹芸的爱情电影主题曲-云且留住"
+                ],
+                "media": [
+                    "CD"
+                ],
+                "tracks": [
+                    "1. 神话\n2. 云且留住\n3. 聚散两依依\n4. 水在一方\n5. 却上心头\n6. 诗意\n7. 秋歌\n8. 我怎么能离开你\n9. 庭院深深\n10. 月朦胧鸟朦胧"
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "许茹芸的爱情电影主题曲-云且留住",
+            "alt": "https://music.douban.com/subject/1405270/",
+            "id": "1405270"
+        }
+    ]
+}
